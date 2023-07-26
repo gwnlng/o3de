@@ -13,7 +13,7 @@ botocore==1.23.44 \
     --hash=sha256:11483a493de4a76ef218d8cd3980c63550d006a0d082c10d53c0954184ca542a \
     --hash=sha256:8e5317f84fc1118bff58fa6fa79a9b62083e75a2a9c62feb3ea73694c550b99d \
     # via -r .\requirements.txt, boto3, s3transfer
-certifi==2019.11.28 \
+certifi==2023.7.22 \
     --hash=sha256:017c25db2a153ce562900032d5bc68e9f191e44e9a0f762f373977de9df1fbb3 \
     --hash=sha256:25b64c7da4cd7479594d035c08c2d809eb4aab3a26e5a990ea98cc450c320f1f \
     # via -r .\requirements.txt, requests
