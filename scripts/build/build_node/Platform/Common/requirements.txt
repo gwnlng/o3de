@@ -36,7 +36,7 @@ futures==3.3.0 \
     --hash=sha256:49b3f5b064b6e3afc3316421a3f25f66c137ae88f068abbf72830170033c5e16 \
     --hash=sha256:7e033af76a5e35f58e56da7a91e687706faf4e7bdfb2cbc3f2cca6b9bcda9794 \
     # via -r requirements.txt, s3transfer
-idna==2.10 \
+idna==3.7 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
     --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0 \
     # via requests
