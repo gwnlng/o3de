@@ -164,12 +164,6 @@ static void CmdCrashTest(IConsoleCmdArgs* pArgs)
         int crashType = atoi(pArgs->GetArg(1));
         switch (crashType)
         {
-        case 1:
-        {
-            int* p = 0;
-            *p = 0xABCD;
-        }
-        break;
         case 2:
         {
             float a = 1.0f;
