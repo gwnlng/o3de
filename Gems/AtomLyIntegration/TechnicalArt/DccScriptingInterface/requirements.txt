@@ -17,7 +17,7 @@ click==7.1.2 \
     --hash=sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc
     # via
     #   -r requirements.txt
-dynaconf==3.1.4 \
+dynaconf==3.2.13 \
     --hash=sha256:b2f472d83052f809c5925565b8a2ba76a103d5dc1dbb9748b693ed67212781b9 \
     --hash=sha256:e6f383b84150b70fc439c8b2757581a38a58d07962aa14517292dcce1a77e160
     # via -r requirements.txt
